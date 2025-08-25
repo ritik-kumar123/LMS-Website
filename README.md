@@ -64,4 +64,4 @@ Ritik Thakur
 
 Portfolio: [Website](https://portfolio-ar-ritik.netlify.app/)
 
-Email: [Email](your-email@example.com)
+Email: [Email](rtthakur4546@example.com)
